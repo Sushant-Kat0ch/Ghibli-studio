@@ -1,2 +1,2 @@
 # Ghibli-studio
-Ghibli movie showcase with API Fetching
+Ghibli movie showcase with APsddddsddI Fetching
